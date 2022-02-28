@@ -1,9 +1,8 @@
 ### Olá, Eu sou o Gabriel Victalvino.
-<p>Atualamente estudo programação e tecnologias, para me destinar neste mercado.
-A cada dia procuro me desvelvolver mais e sempre atento a novas tecnologias e novas tendências
+<p>A cada dia eu procuro me desenvolver mais na área tecnológica e busco estar sempre atualizado e atento a novas tendências do mercado.
 </p>
 
-- 😁 Somente estudando Front-end.
+- 😁 Estudando Front-end.
 - 📜 Atualmente estou aprendendo React.
 - 📫 Para entrar em contato: g.victalvino@gmail.com
 - ⚡ Curiosidades: 
@@ -18,10 +17,10 @@ A cada dia procuro me desvelvolver mais e sempre atento a novas tecnologias e no
 </div>
   
 <div style= "display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Gabi-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Gabi-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Gabi-React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
 ##
@@ -29,6 +28,7 @@ A cada dia procuro me desvelvolver mais e sempre atento a novas tecnologias e no
   <div>
   <a href="https://instagram.com/victalvinogabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:g.victalvin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielaguirre01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielaguirre01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5548996771588" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://t.me/gabrielvictalvino" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
-##
