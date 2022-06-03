@@ -5,6 +5,7 @@
 - 😁 Estudando Front-end.
 - 📜 Atualmente estou aprendendo React.
 - 📫 Para entrar em contato: g.victalvino@gmail.com
+- Portfólio: https://gabrielvictalvino.github.io/portfolio/
 - ⚡ Curiosidades: 
   - 🏉 Gosto de jogar Rugby.
   - 🎲 Mestre de RPG.
